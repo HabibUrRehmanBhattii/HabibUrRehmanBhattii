@@ -5,13 +5,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 you to reach me at habiburehman29@gmail.com
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HabibUrRehmanBhattii&hide=issues,contribs&count_private=true&show_icons=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HabibUrRehmanBhattii&hide=issues,contribs&count_private=true&show_icons=true)                    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HabibUrRehmanBhattii&hide=Procfile&layout=compact)
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=HabibUrRehmanBhattii&theme=vue&hide_border=true&border_radius=2.6)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HabibUrRehmanBhattii&hide=Procfile&layout=compact)
 
 
 
