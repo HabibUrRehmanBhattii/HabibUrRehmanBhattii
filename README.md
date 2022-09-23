@@ -16,7 +16,8 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![prize](https://github-profile-trophy.vercel.app/?username=HabibUrRehmanBhattii)
 
-
+![hit](https://activity-graph.herokuapp.com/graph?username=HabibUrRehmanBhattii&theme=minimal
+)
 <!---
 HabibUrRehmanBhattii/HabibUrRehmanBhattii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
