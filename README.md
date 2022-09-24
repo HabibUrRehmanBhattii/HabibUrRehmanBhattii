@@ -24,7 +24,7 @@
 - 👋 Hi, I’m @HabibUrRehmanBhattii
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web3.0
 - 📫 you to reach me at habiburehman29@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
