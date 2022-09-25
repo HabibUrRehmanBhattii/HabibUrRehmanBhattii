@@ -46,9 +46,7 @@
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/>&nbsp;
 <img src="https://pbs.twimg.com/media/E7_cC-oXIAAXQ32?format=jpg&name=900x900" alt="motoko" width="45" height="40"/>&nbsp;
 <img src="https://pbs.twimg.com/profile_images/2199543684/ejs_400x400.png" alt="ejs" width="40" height="40"/>&nbsp;
-<img src="https://img.icons8.com/color/48/000000/rest-api.png" alt="rest" width="40" height="40"/>&nbsp;
-
-<img src="https://cdn.thenewstack.io/media/2022/02/aec396cd-screenshot-2022-02-04-at-2.56.57-pm.png" alt="web3" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/rest-api.png" alt="rest" width="40" height="40"/>&nbsp;<img src="https://cdn.thenewstack.io/media/2022/02/aec396cd-screenshot-2022-02-04-at-2.56.57-pm.png" alt="web3" width="40" height="40"/>&nbsp;
  
 </div>
 
