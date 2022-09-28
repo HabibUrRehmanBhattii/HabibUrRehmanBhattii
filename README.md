@@ -20,7 +20,7 @@
 </div>
 
 ---
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 - 👋 Hi, I’m @HabibUrRehmanBhattii
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning web development.
