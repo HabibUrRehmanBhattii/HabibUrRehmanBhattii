@@ -35,7 +35,6 @@
 <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png" alt="jquery" width="40" height="40"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" title="Material UI" alt="Postgresql" width="40" height="40"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" width="40" height="40"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="40" height="40"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm" width="40" height="40"/>&nbsp;
