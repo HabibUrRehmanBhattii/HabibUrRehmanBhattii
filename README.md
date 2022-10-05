@@ -16,6 +16,9 @@
 </div>
 
 <div align="center">
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Always+learning+new+things;Masters+in+Information+Technology;Full+Stack+Web+and+app+developer&font=Fira%20Code&center=true&width=440&height=45&color=fff&vCenter=true&size=22">
+</p>
   <img src="https://i.giphy.com/media/3o7abkwfIVAeDT6RSU/giphy.webp" />
 </div>
 
@@ -67,6 +70,20 @@
 
 
 ![hit](https://activity-graph.herokuapp.com/graph?username=HabibUrRehmanBhattii&theme=minimal&hide_border=true&area=true&hide_title=true&color=00ff00&line=00ff00&point=00ff00&area_color=00ff00&area_opacity=0.1&line_color=00ff00&line_opacity=0.1&point_color=00ff00&point_opacity=0.1&bg_color=000000&hide_border=true&border_radius=2.6)
+
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif?raw=true" width="600px" /> 
+## A Famous Fact/Quote:
+<a href="https://github.com/marketplace/actions/quote-readme">
+<!--STARTS_HERE_QUOTE_README-->
+<i>❝“Data levels all arguments.”— Anthony W. Richardson❞</i>
+<!--ENDS_HERE_QUOTE_README-->
+</a>
+
+<hr>
+
+### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Here's some humor for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
+
 
 <!---
 HabibUrRehmanBhattii/HabibUrRehmanBhattii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
