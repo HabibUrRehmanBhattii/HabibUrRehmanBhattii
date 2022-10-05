@@ -87,6 +87,8 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
 
 
+<hr>
+
 <!---
 HabibUrRehmanBhattii/HabibUrRehmanBhattii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
