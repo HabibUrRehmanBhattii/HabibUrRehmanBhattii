@@ -23,11 +23,11 @@
 </div>
 
 ---
-### :man_technologist: About Me :
-- 👋 Hi, I’m @HabibUrRehmanBhattii
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning Python and advanced Css.
-- 💞️ I’m looking to collaborate on Web3.0
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="40px"> **About Me:**
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif?raw=true" width="20px" /> Hi, I’m Stduent of Mobility and Logistics at the University of Rhin-Waal in Kamp-Lintfort, Germany. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif?raw=true" width="20px" /> I’m interested in coding.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif?raw=true" width="20px" /> I’m currently learning Python and advanced Css.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif?raw=true" width="20px" /> I’m looking to collaborate on Web3.0
 - 📫 you to reach me at habiburehman29@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -53,7 +53,7 @@
  
 </div>
 
-### :fire: My Stats :
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HabibUrRehmanBhattii&show_icons=true&theme=radical&hide=issues,contribs&count_private=true&include_all_commits=true&hide_border=true) ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HabibUrRehmanBhattii&layout=compact&hide_border=true&theme=radical&langs_count=10&hide=Procfile,Shell&count_private=true&include_all_commits=true)
 
 
