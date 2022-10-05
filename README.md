@@ -71,7 +71,9 @@
 
 ![hit](https://activity-graph.herokuapp.com/graph?username=HabibUrRehmanBhattii&theme=minimal&hide_border=true&area=true&hide_title=true&color=00ff00&line=00ff00&point=00ff00&area_color=00ff00&area_opacity=0.1&line_color=00ff00&line_opacity=0.1&point_color=00ff00&point_opacity=0.1&bg_color=000000&hide_border=true&border_radius=2.6)
 
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif?raw=true" width="600px" /> 
+<hr>
+
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif?raw=true" width="300px" /> 
 ## A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
