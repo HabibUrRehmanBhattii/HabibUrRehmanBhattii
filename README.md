@@ -17,7 +17,7 @@
 
 <div align="center">
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Always+learning+new+things;Masters+in+Information+Technology;Full+Stack+Web+and+app+developer&font=Fira%20Code&center=true&width=440&height=45&color=fff&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Always+learning+new+things;Student+in+Mobility+And+Logistic;Full+Stack+Web+developer&font=Fira%20Code&center=true&width=440&height=45&color=fff&vCenter=true&size=22">
 </p>
   <img src="https://i.giphy.com/media/3o7abkwfIVAeDT6RSU/giphy.webp" />
 </div>
@@ -77,7 +77,7 @@
 ## A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Data levels all arguments.”— Anthony W. Richardson❞</i>
+<i>❝The microcontroller inside a MacBook charger is about as powerful as the original Macintosh computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
