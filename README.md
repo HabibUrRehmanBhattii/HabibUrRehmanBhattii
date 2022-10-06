@@ -17,7 +17,7 @@
 
 <div align="center">
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Always+learning+new+things;Student+in+Mobility+And+Logistic;Full+Stack+Web+developer&font=Fira%20Code&center=true&width=440&height=45&color=fff&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Always+learning+new+things;Student+in+Mobility+And+Logistic;Full+Stack+Web+developer&font=Fira%20Code&center=true&width=440&height=45&color=#fdsa4&vCenter=true&size=22">
 </p>
   <img src="https://i.giphy.com/media/3o7abkwfIVAeDT6RSU/giphy.webp" />
 </div>
@@ -50,44 +50,76 @@
 <img src="https://pbs.twimg.com/profile_images/2199543684/ejs_400x400.png" alt="ejs" width="40" height="40"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/rest-api.png" alt="rest" width="40" height="40"/>&nbsp;<img src="https://cdn.thenewstack.io/media/2022/02/aec396cd-screenshot-2022-02-04-at-2.56.57-pm.png" alt="web3" width="40" height="40"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/sass.png" alt="sass" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/-less-1D365D?style=flat-square&logo=less&logoColor=white" alt="less"/>&nbsp;
+
  
 </div>
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HabibUrRehmanBhattii&show_icons=true&theme=radical&hide=issues,contribs&count_private=true&include_all_commits=true&hide_border=true) ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HabibUrRehmanBhattii&layout=compact&hide_border=true&theme=radical&langs_count=10&hide=Procfile,Shell&count_private=true&include_all_commits=true)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=HabibUrRehmanBhattii&show_icons=true&theme=radical" alt="HabibUrRehmanBhattii" />
+</div>
 
+### :zap: Most Used Languages:
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabibUrRehmanBhattii&layout=compact&theme=radical&langs_count=10&hide=shell,procfile&show_icons=true" alt="HabibUrRehmanBhattii" />
+</div>
 
+### :zap: Github Streak:
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HabibUrRehmanBhattii&theme=radical" alt="HabibUrRehmanBhattii" />
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=HabibUrRehmanBhattii&theme=vue&hide_border=true&border_radius=2.6rem&stroke=0000&background=151515&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=FF0000&sideNums=FF0000&currStreakNum=FF0000&fire=FF0000&ring=FF0000&background=151515&stroke=0000&border_radius=2.6rem&hide_border=true&theme=vue&user=HabibUrRehmanBhattii)
+### :zap: Github Trophies:
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=HabibUrRehmanBhattii&theme=dracula" alt="HabibUrRehmanBhattii" />
+</div>
 
+### :zap: Github Activity:
+<div align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=HabibUrRehmanBhattii&theme=dracula&area=true" alt="HabibUrRehmanBhattii" />
+</div>
 
-
-
-
-
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![prize](https://github-profile-trophy.vercel.app/?username=HabibUrRehmanBhattii&theme=onedark&no-bg=true&no-frame=true&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=7&row=1&margin-w=10&margin-h=10&no-frame=true&no-bg=true&theme=dark&background=000000)
-
-
-![hit](https://activity-graph.herokuapp.com/graph?username=HabibUrRehmanBhattii&theme=minimal&hide_border=true&area=true&hide_title=true&color=00ff00&line=00ff00&point=00ff00&area_color=00ff00&area_opacity=0.1&line_color=00ff00&line_opacity=0.1&point_color=00ff00&point_opacity=0.1&bg_color=000000&hide_border=true&border_radius=2.6)
+### :zap: Github Visitors:
+<div align="center">
+<img src="https://profile-counter.glitch.me/HabibUrRehmanBhattii/count.svg" alt="HabibUrRehmanBhattii" />
+</div>
 
 <hr>
 
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif?raw=true" width="300px" /> 
 ## A Famous Fact/Quote:
-<a href="https://github.com/marketplace/actions/quote-readme">
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝The microcontroller inside a MacBook charger is about as powerful as the original Macintosh computer.❞</i>
-<!--ENDS_HERE_QUOTE_README-->
-</a>
+<div align="center">
+<img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in" alt="HabibUrRehmanBhattii" />
+</div>
 
 <hr>
 
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Here's some humor for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api/?align=center&theme=radical"  alt="Error fetching resource, Refresh again to view Jokes Card" />
+
 <hr>
 
-<!---
-HabibUrRehmanBhattii/HabibUrRehmanBhattii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Contect me here -->
+
+<div align="center">
+<h2>📫 How to reach me:</h2>
+</div>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/habib-ur-rehman-bhatti-884713103/">
+<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" width="40" height="40"/>
+</a>
+<a href="https://www.xing.com/profile/HabibUrRehman_BHatti/cv">
+<img src="https://img.icons8.com/color/48/000000/xing.png" alt="xing" width="40" height="40"/>
+</a>
+<a href="mailto:habiburrehman29+github@gmail.com">
+<img src="https://img.icons8.com/color/48/000000/gmail.png" alt="gmail" width="40" height="40"/>
+</a>
+</div>
+
+<hr>
+
+
+
+
