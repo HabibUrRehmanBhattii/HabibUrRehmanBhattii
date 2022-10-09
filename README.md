@@ -1,10 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
    
-  <div id="badges">
-    <a href="https://www.xing.com/profile/HabibUrRehman_BHatti/cv">
-     <img src="https://img.shields.io/badge/Xing-green?logo=Xing&logoColor=blue&style=for-the-badge" alt="Xing Badge" />
-    </a>
+
                                                                                                                     
   </div>
                                                                                                                      
@@ -99,27 +96,6 @@
 <img src="https://readme-jokes.vercel.app/api/?align=center&theme=radical"  alt="Error fetching resource, Refresh again to view Jokes Card" />
 
 <hr>
-
-<!-- Contect me here -->
-
-<div align="center">
-<h2>📫 How to reach me:</h2>
-</div>
-
-<div align="center">
-<a href="https://www.linkedin.com/in/habib-ur-rehman-bhatti-884713103/">
-<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" width="40" height="40"/>
-</a>
-<a href="https://www.xing.com/profile/HabibUrRehman_BHatti/cv">
-<img src="https://img.icons8.com/color/48/000000/xing.png" alt="xing" width="40" height="40"/>
-</a>
-<a href="mailto:habiburrehman29+github@gmail.com">
-<img src="https://img.icons8.com/color/48/000000/gmail.png" alt="gmail" width="40" height="40"/>
-</a>
-</div>
-
-<hr>
-
 
 
 
