@@ -28,7 +28,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="40px"> **About Me:**
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif?raw=true" width="20px" /> Hi, I’m Stduent of Mobility and Logistics . <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif?raw=true" width="20px" /> I’m interested in coding.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif?raw=true" width="20px" /> I’m currently learning Python and advanced Css.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif?raw=true" width="20px" /> I’m currently learning Python.
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif?raw=true" width="20px" /> I’m looking to collaborate on React.
 - 📫 you to reach me at habiburehman29+github@gmail.com
 
