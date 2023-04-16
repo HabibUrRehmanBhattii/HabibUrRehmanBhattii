@@ -68,17 +68,12 @@
 </div>
 
 ### :zap: Github Streak:
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HabibUrRehmanBhattii&theme=radical" alt="HabibUrRehmanBhattii" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=HabibUrRehmanBhattii&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 ### :zap: Github Trophies:
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=HabibUrRehmanBhattii&theme=dracula" alt="HabibUrRehmanBhattii" />
 </div>
-
-### :zap: Github Activity:
-[![GitHub Streak](https://streak-stats.demolab.com?user=HabibUrRehmanBhattii&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ### :zap: Github Visitors:
 <div align="center">
@@ -86,11 +81,6 @@
 </div>
 
 <hr>
-
-## A Famous Fact/Quote:
-<div align="center">
-<img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in" alt="HabibUrRehmanBhattii" />
-</div>
 
 <hr>
 
