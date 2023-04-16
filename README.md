@@ -79,7 +79,9 @@
 </div>
 
 <hr>
-### ☣️ Github Streak
+
+### :zap: Github Streak:
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=HabibUrRehmanBhattii&theme=prussian&hide_border=true)](https://git.io/streak-stats)
 <hr>
 
