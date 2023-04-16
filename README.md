@@ -67,8 +67,6 @@
 <img src="https://finalstate.vercel.app/api/top-langs/?username=HabibUrRehmanBhattii&layout=compact&theme=radical&langs_count=10&hide=shell,procfile&show_icons=true" alt="HabibUrRehmanBhattii" />
 </div>
 
-### :zap: Github Streak:
-[![GitHub Streak](https://streak-stats.demolab.com?user=HabibUrRehmanBhattii&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 ### :zap: Github Trophies:
 <div align="center">
