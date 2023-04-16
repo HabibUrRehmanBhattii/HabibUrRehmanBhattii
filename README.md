@@ -78,9 +78,7 @@
 </div>
 
 ### :zap: Github Activity:
-<div align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=HabibUrRehmanBhattii&theme=dracula&area=true" alt="HabibUrRehmanBhattii" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=HabibUrRehmanBhattii&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ### :zap: Github Visitors:
 <div align="center">
